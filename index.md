@@ -25,6 +25,9 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
  
 *cs 193 is fun and useful.
+
 *cs 193 is operated by students.
+
 *cs 193 doesn't have any homework.
+
 *By attending and completing the tasks, cs 193 would be an easy A.
